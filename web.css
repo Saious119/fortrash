@@ -6,7 +6,7 @@
 }
 
 body{
-  background-color: LightSlateGrey;
+  background-color: cyan;
 }
 
 head{
@@ -21,7 +21,7 @@ h1{
 }
 .content{
   margin: 30px auto;
-  border: 3px solid white;
+  border: 3px solid grey;
   border-radius: 3px;
   width: 700px;
   padding: 50px;
@@ -31,7 +31,7 @@ h1{
 }
 .social-media{
   margin: 30px auto;
-  border: 3px solid white;
+  border: 3px solid grey;
   border-radius: 3px;
   width: 700px;
   padding: 50px;
@@ -44,7 +44,7 @@ h1{
 }
 .addinfo{
   margin: 30px auto;
-  border: 3px solid white;
+  border: 3px solid grey;
   border-radius: 3px;
   width: 700px;
   padding: 50px;
