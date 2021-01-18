@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    background-color: black;
+    color: white;
+  }
+  
+  head{
+    background: green;
+    color: white;
+    padding: 20px;
+  }
+  h1{
+    background: green;
+    padding: 20px;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+  }
+  .content{
+    margin: 30px auto;
+    padding: 50px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 22px;
+  }
+  .languages{
+    margin: 30px auto;
+    border: 3px solid grey;
+    border-radius: 3px;
+    width: 700px;
+    padding: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+  }
+  .nav-list{
+    margin: 10px auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+  }
+  .social-media{
+    margin: 30px auto;
+    border-radius: 3px;
+    width: 700px;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+  }
+  .social-media img{
+    width: 25%
+  }
+ul > li{
+  margin-left: 50px;
+}
